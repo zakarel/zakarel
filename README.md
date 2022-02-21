@@ -1,5 +1,5 @@
 <h1 align="center">Tzahi Ariel</h1>
-<h3 align="center">An experienced Cloud Architect & DevOps engineer</h3>
+<h3 align="center">An experienced Cloud Solution Architect & DevOps engineer</h3>
 
 - 💬 Ask me about **Azure, DevOps methodologies, Cloud architecture topologies**
 
