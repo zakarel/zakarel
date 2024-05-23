@@ -1,5 +1,5 @@
 <h1 align="center">Tzahi Ariel</h1>
-<h3 align="center">Cloud Solution Architect at Microsoft</h3>
+<h3 align="center">Senior Cloud Solution Architect at Microsoft</h3>
 
 #### Social
 - [GitHub](https://github.com/zakarel)
@@ -9,6 +9,8 @@
 - [Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1784066#profile)
 
 #### Authored the following articles and blogs:
+- [AKS, Container Apps, and What’s In Between](https://medium.com/@zaki.rel/aks-container-apps-and-whats-in-between-43eef27c0688)
+- [Ready-To-Code Cloud Workstations — Microsoft Dev Box](https://medium.com/@zaki.rel/ready-to-code-cloud-workstations-microsoft-dev-box-971dedfbfb0c)
 - [How to create a hub and spoke network architecture in Azure using Terraform](https://medium.com/@zaki.rel/how-to-create-a-hub-and-spoke-network-architecture-in-azure-using-terraform-9378f7b443ee)
 - [Cutting Azure Costs: A Practical Guide for Cost-Conscious Businesses](https://medium.com/@zaki.rel/cutting-azure-costs-a-practical-guide-for-cost-conscious-businesses-31272fcf12aa)
 - [Azure Red Hat Openshift (ARO) Persistent Volume on Azure Files](https://medium.com/@zaki.rel/azure-red-hat-openshift-aro-persistent-volume-on-azure-files-7c100b545c3d)
